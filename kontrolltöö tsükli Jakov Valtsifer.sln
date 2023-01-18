@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "kontrolltöö tsükli Jakov Valtsifer", "kontrolltöö tsükli Jakov Valtsifer\kontrolltöö tsükli Jakov Valtsifer.pyproj", "{C7BEA047-524B-43CB-80A4-8CD44723B300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7BEA047-524B-43CB-80A4-8CD44723B300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7BEA047-524B-43CB-80A4-8CD44723B300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {236E0202-1AD1-40A0-A607-402179CD061A}
+	EndGlobalSection
+EndGlobal
